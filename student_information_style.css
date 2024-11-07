@@ -1,0 +1,53 @@
+body
+{
+	background: #CECECE;
+	font-family: 'Poppins';
+	font-style: normal;
+}
+.custom-card
+{
+    border: 0 !important;
+    border-radius: 12px;
+}
+.custom-card .card-header
+{
+	background: #005CBF;
+	border-radius: 12px 12px 0px 0px;
+	padding: 1rem 2rem !important;
+    color: white;
+}
+.custom-card .card-header-academic
+{
+    background-color: #f03e3e;
+}
+label
+{
+    color: #181C32;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 26px;
+}
+
+.text-reset-icon
+{
+    
+    position: relative;
+    left: 95%;
+    bottom: 2rem;
+    color: #adb5bd;
+}
+sup
+{
+    color: red;
+}
+
+.text-reset-icon:hover
+{
+    color: black;
+
+}
+svg
+{
+    scale: 0.75;
+}
+		
